@@ -3,8 +3,8 @@
 Login Screen using StackNavigation
 
 ## screenshots
-![LoginScreen](https://github.com/Ruslan0305-git/React-native-1.Login/demo/login.png)
-![HomeScreen](https://github.com/Ruslan0305-git/React-native-1.Login/demo/home.png)
+![LoginScreen](https://github.com/Ruslan0305-git/React-native-1.Login/master/demo/login.png)
+![HomeScreen](https://github.com/Ruslan0305-git/React-native-1.Login/master/demo/home.png)
 
 
 ## run method
