@@ -1,4 +1,4 @@
-## Simple LgonScreen
+## Simple LogInnScreen
 
 Login Screen using StackNavigation
 
