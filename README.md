@@ -3,7 +3,7 @@
 Login Screen using StackNavigation
 
 ## screenshots
-![LoginScreen](https://github.com/Ruslan0305-git/React-native-1.Login/blob/master/demo/home.png)
+![LoginScreen](https://github.com/Ruslan0305-git/React-native-1.Login/blob/master/demo/login.png)
 ![HomeScreen](https://github.com/Ruslan0305-git/React-native-1.Login/blob/master/demo/home.png)
 
 
